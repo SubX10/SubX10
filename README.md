@@ -19,7 +19,7 @@
 
 ## 🧠 Current Focus
 
-- Open Source (GSoC)
+- Open Source 
 - System Design & Backend
 - Competitive Programming (ICPC prep)
 - Quantitative Finance (long-term)
